@@ -1,0 +1,49 @@
+[
+  {
+    "type": "DATE",
+    "name": "date",
+    "mode": "REQUIRED"
+  },
+  {
+    "type": "FLOAT",
+    "name": "low",
+    "mode": "NULLABLE"
+  },
+  {
+    "type": "FLOAT",
+    "name": "open",
+    "mode": "NULLABLE"
+  },
+  {
+    "type": "FLOAT",
+    "name": "high",
+    "mode": "NULLABLE"
+  },
+  {
+    "type": "FLOAT",
+    "name": "close",
+    "mode": "NULLABLE"
+  },
+  {
+    "type": "FLOAT",
+    "name": "volume",
+    "mode": "NULLABLE"
+  },
+  {
+    "type": "FLOAT",
+    "name": "adj_close",
+    "mode": "NULLABLE"
+  },
+  {
+    "type": "FLOAT",
+    "name": "split_coefficient"
+  },
+  {
+    "type": "FLOAT",
+    "name": "dividend_amount"
+  },
+  {
+    "type": "STRING",
+    "name": "symbol"
+  }
+]
